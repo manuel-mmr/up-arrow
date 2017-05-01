@@ -9,7 +9,7 @@ Button to go to the top os the screen. It is shown when the mouse scroll is grea
 
 ### How do I get set up?
 
-Run ` bower install` to install the dependencies.
+Run `bower install manuel-mmr/up-arrow` to install the dependencies.
 
 ### How do I use it?
 
