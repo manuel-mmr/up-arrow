@@ -1,0 +1,19 @@
+{
+  "name": "up-arrow",
+  "authors": [
+    "Manuel Mediavilla Rodriguez <mediavillarodriguez@gmail.com>"
+  ],
+  "description": "Button to go the top of the view",
+  "main": "up-arrow.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.5.3"
+  }
+}
